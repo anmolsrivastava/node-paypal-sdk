@@ -1,0 +1,24 @@
+{
+  "name": "paypal-sdk",
+  "version": "1.0.0",
+  "description": "Intro To The Node.js PayPal REST SDK",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolsrivastava/node-paypal-sdk.git"
+  },
+  "author": "Anmol Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmolsrivastava/node-paypal-sdk/issues"
+  },
+  "homepage": "https://github.com/anmolsrivastava/node-paypal-sdk#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
